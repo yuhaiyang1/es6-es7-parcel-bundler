@@ -10,7 +10,6 @@
     "parcel",
     "react"
   ],
-  "author": "“Robin <“wrobin@gmx.net”> (https://www.robinwieruch.de)",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
