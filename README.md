@@ -9,4 +9,5 @@ A minimal React.js boilerplate with [parcel as bundler](https://github.com/parce
 * `npm install`
 * `npm start`
 
-## 当前配置已经支持es6基本语法，支持7的装饰器和async/await
+## 当前配置已经支持es6基本语法，支持7的装饰器和async/await  
+@author :yhy
