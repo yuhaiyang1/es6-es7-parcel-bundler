@@ -4,7 +4,9 @@ A minimal React.js boilerplate with [parcel as bundler](https://github.com/parce
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/parcel-react.git`
-* `cd parcel-react`
+* `git clone`
+* `cd 当前文件夹`
 * `npm install`
-* `npm startl`
+* `npm start`
+
+## 当前配置已经支持es6基本语法，支持7的装饰器和async/await
