@@ -8,7 +8,7 @@ A minimal React.js boilerplate with [parcel as bundler](https://github.com/parce
 * `cd 当前文件夹`
 * `npm install`
 * `npm start`  
-* 哈哈![]('./src/cat.jpg')
+* 哈哈![网速不行](/src/cat.jpg)
 
 ## 当前配置已经支持es6基本语法，支持7的装饰器和async/await  
 @author :yhy
